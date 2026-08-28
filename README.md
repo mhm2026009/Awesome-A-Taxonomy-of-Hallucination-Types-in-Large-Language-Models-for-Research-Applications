@@ -37,7 +37,7 @@ The collection emphasizes verification and reproducibility. Research papers and 
 
 My research paper:
 
-[View AI-Assisted Research Paper](paper/Lab1_MHM2026009_Kushagra_Agrawal.pdf)
+[View AI-Assisted Research Paper](paper/Lab1_MHM2026009_Kushagra_Agrawal_AI_Assisted_Paper.pdf)
 
 **Topic:** A Taxonomy of Hallucination Types in Large Language Models for Research Applications
 
@@ -47,7 +47,7 @@ My research paper:
 
 The references and claims used during the research process were checked for authenticity and consistency.
 
-[View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.pdf)
+[View Citation Integrity Audit](paper/Lab1_MHM2026009_Kushagra_Agrawal_Audit.pdf)
 
 ---
 
